@@ -8,9 +8,9 @@ Indeed, one can do the following:
 
 # Details on the corpus 
 
-1. Harry Potter and the Goblet of Fire, J.K. Rowling - English version
-2. The Republic, Plato - English version
-3. Harry Potter and the Cursed Child (sample of 435 lines), J.K. Rowling - Russian version
+1. Harry Potter and the Goblet of Fire, J.K. Rowling - English version (full: 6,192 lines)
+2. The Republic, Plato - English version (full: 19,846 lines)
+3. Harry Potter and the Cursed Child, J.K. Rowling - Russian version  (sample of 435 lines)
 
 # Preprocessing 
 
