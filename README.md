@@ -38,7 +38,7 @@ sh prepare-data-book-corpus.sh MIN_LENGTH
 
 ```
 The above will preprocess the corpus by:
-1. Lowercasing and removing accents 
-2. Filtering out short sentences
+1. Lowercasing and removing accents and store that in data/processed e.g. harry-potter.tok.en 
+2. Filtering out short sentences and store that in data/processed e.g. harry-potter_proc.tok.en 
 
 One can add additional steps as desired by modifying prepare-data-book-corpus.sh. 
